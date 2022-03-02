@@ -1,0 +1,9 @@
+database:
+  host: "localhost"
+  port: "3306"
+  database_name: "authme"
+  username: "root"
+  password: ""
+web_register: false
+web_register_msg: "&cPlease register at\n&fid.example.com"
+wrong_name: "&cYou should login with %realname%"
