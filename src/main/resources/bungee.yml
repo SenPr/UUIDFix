@@ -1,0 +1,4 @@
+name: UUID Fix
+version: '${project.version}'
+main: me.saywut.uuidfix.UUIDFix
+description: Prevents UUID change for offline players (hooked into AuthMe)
